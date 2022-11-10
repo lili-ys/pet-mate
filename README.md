@@ -40,6 +40,7 @@ https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
 <details>
 <summary><b>펼치기</b></summary>
 <div markdown="1">
+    
     - Figma를 이용한 디자인 구성 (FE협업)
   
     - 메인페이지
