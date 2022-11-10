@@ -36,45 +36,43 @@ https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
 
 <br/>
 
-## 5. 기능 요약
+## 5. 담당
 <details>
 <summary><b>펼치기</b></summary>
 <div markdown="1">
-
-
-#### 5.1. 인증 :pushpin: [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/auth)
-- 로그인
-  - 이메일
-  - 구글
-  - 카카오
-
-#### 5.2. 유저 :pushpin: [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/user)
-- 회원가입
-- 프로필 수정
-- 계정정보 수정
-- 내 게시글 조회
-
-#### 5.3. 커뮤니티 :pushpin: [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/community)
-- 게시글
-  - 조회
-  - 등록
-  - 수정
-  - 삭제
-- 댓글
-  - 등록
-  - 삭제
-- 해쉬태그
-- 좋아요
-
-#### 5.4. 산책메이트 :pushpin: [코드 확인](https://github.com/joyw93/pet-mate/tree/main/server/src/sanchaek)
-- 산책
-  - 조회
-  - 등록
-  - 수정
-  - 삭제
-- 댓글
-  - 등록
-  - 삭제
+    - Figma를 이용한 디자인 구성 (FE협업)
+  
+    - 메인페이지
+        - 헤더, 배너 구현 (반응형)
+        - 검색 기능
+  
+    - 커뮤니티
+        - 게시글 등록
+        - 이미지 등록
+        - 디테일 페이지 조회
+        - 해쉬태그 등록, 삭제, 조회, 검색
+        - 좋아요 기능
+        - 댓글 등록, 삭제, 조회
+  
+    - 산책메이트
+        - 전체 게시글 조회
+        - 디테일 페이지 조회, 삭제
+        - 댓글 등록, 삭제, 조회
+  
+    - 유저 프로필 페이지
+        - 전체
+  
+    - 상태관리
+        - user
+            - 프로필
+        - community
+            - 댓글
+        - sanchaek
+            - 조회
+            - 삭제
+            - 댓글
+        - search
+            - 전체
   
 </div>
 </details>
