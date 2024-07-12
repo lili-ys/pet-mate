@@ -1,84 +1,54 @@
-# :pushpin: 펫메이트
-<img width="949" alt="캡처" src="https://user-images.githubusercontent.com/48177285/181407026-7aba65ce-96ae-43b6-9c0e-df677ae49376.PNG">
+<h1 align="center">Pet Mate</h1>
 
->애완동물 커뮤니티  
->http://petmate.kr 
+-   **프로젝트 명** : **One Line**
+-   **프로젝트 기간** : 2023.04.17 - 2023.06.05
+-   **담당** : **`팀장` `프론트엔드` `백엔드`**
 
-</br>
+<br>
 
-## 1. 제작 기간 & 참여 인원
-- 2022.6.28 ~ 2022.7.26
-- Back-End : 조용원
-- Front-End : 곽성이, 손유경
+## 🐾 프로젝트 소개
 
-</br>
+### **“반려동물 커뮤니티”**
 
-## 2. 사용 기술
-### Front-End
-<img width="495" alt="캡처" src="https://user-images.githubusercontent.com/48177285/181400595-975a7443-df2a-476a-8a97-2d397c68b4a0.PNG">
+🐱 **반려동물을 키우는 사람이라면 누구나 자유롭게 이용할 수 있는 온라인 커뮤니티**
 
-### Back-End
-<img width="551" alt="backend" src="https://user-images.githubusercontent.com/48177285/181399540-95c6e339-2749-4b2b-852a-a2761adff997.PNG">
+🐶 **펫메이트에서 다양한 정보를 공유하고, 함께 강아지를 산책 시킬 동네 친구도 만들어보세요!**
 
-### Infra
-<img width="283" alt="캡처" src="https://user-images.githubusercontent.com/48177285/181401569-83613323-99ce-4f4f-9ad0-10248f832518.PNG">
+<br>
 
-</br>
+## 🛠 기술 스택
 
-## 3. 협업문서
-https://www.notion.so/4061678abea846c6b4f4858e4b8725a0
+#### Front-End
 
-## 4. ERD
-<img width="659" alt="erd" src="https://user-images.githubusercontent.com/48177285/181696667-c02c865e-eb52-492b-aae9-4146d96beece.PNG">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/redux saga-999999?style=for-the-badge&logo=reduxsaga&logoColor=white"> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=node.js&logoColor=white">
 
->상세보기
-https://www.erdcloud.com/d/4i3JW87RGiuJyFCNL
+#### Back-End
 
-<br/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
-## 5. 담당
-<details>
-<summary><b>펼치기</b></summary>
-<div markdown="1">
-    
-    - Figma를 이용한 디자인 구성 (FE협업)
-  
-    - 메인페이지
-        - 헤더, 배너 구현 (반응형)
-        - 검색 기능
-  
-    - 커뮤니티
-        - 게시글 등록
-        - 이미지 등록
-        - 디테일 페이지 조회
-        - 해쉬태그 등록, 삭제, 조회, 검색
-        - 좋아요 기능
-        - 댓글 등록, 삭제, 조회
-  
-    - 산책메이트
-        - 전체 게시글 조회
-        - 디테일 페이지 조회, 삭제
-        - 댓글 등록, 삭제, 조회
-  
-    - 유저 프로필 페이지
-        - 전체
-  
-    - 상태관리
-        - user
-            - 프로필
-        - community
-            - 댓글
-        - sanchaek
-            - 조회
-            - 삭제
-            - 댓글
-        - search
-            - 전체
-  
-</div>
-</details>
+#### Infra
 
-<br/>
+<img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 
 
+<br>
 
+## 👩🏻‍🔧 담당 (Front-End)
+
+### **:pushpin:상세 설명** : https://momentous-mint-302.notion.site/Pet-Mate-8f3f3dccf7344d13bc2161a1c9ca1f91?pvs=4
+
+|<img width="949" alt="캡처" src="https://github.com/ys9494/readme_sample/blob/main/imgs/Untitled%20(33).png"> | <img width="949" alt="캡처" src="https://github.com/ys9494/readme_sample/blob/main/imgs/Untitled%20(36).png"> |
+|:-----------:|:------------:|
+|메인페이지 및 헤더 |게시글 등록 페이지 |
+
+|<img width="949" alt="캡처" src="https://github.com/ys9494/readme_sample/blob/main/imgs/Untitled%20(37).png"> | <img width="949" alt="캡처" src="https://github.com/ys9494/readme_sample/blob/main/imgs/Untitled%20(38).png"> |
+|:-----------:|:------------:|
+|게시글 상세 페이지 (커뮤니티) |게시글 상세 페이지 (산책) |
+
+|<img width="949" alt="캡처" src="https://github.com/ys9494/readme_sample/blob/main/imgs/Untitled%20(34).png"> | <img width="949" alt="캡처" src="https://github.com/ys9494/readme_sample/blob/main/imgs/Untitled%20(35).png"> |
+|:-----------:|:------------:|
+|게시글 검색 페이지 |해시태그 검색 페이지 |
+
+|<img width="949" alt="캡처" src="https://github.com/ys9494/readme_sample/blob/main/imgs/Untitled%20(39).png"> | <img width="949" alt="캡처" src="https://github.com/ys9494/readme_sample/blob/main/imgs/Untitled%20(40).png"> |
+|:-----------:|:------------:|
+|게시글 목록 페이지 |유저 프로필 페이지 |
